@@ -24,20 +24,20 @@ a {
 }
 
 #taiwan {
-	left: 83%;
-	top: 50%;
+	left: 75%;
+	top: 42%;
 	position: absolute;
 }
 
 #washington {
-	position: relative;
+	position: absolute;
 	left: 19.5%;
 	top: 33%;
 }
 
 
 #berkeley {
-	position: relative;
-	left: 17%;
-	top: 40%;
+	position: absolute;
+	left: 21%;
+	top: 39%;
 }
